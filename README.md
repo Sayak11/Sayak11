@@ -45,11 +45,16 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayak11&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayak11&theme=outrun&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Sayak11">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayak11&show_icons=true&theme=cobalt&line_height=27" alt="Sayak's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayak11&show_icons=true&theme=calm&line_height=27" alt="Sayak's github stats"/>
 </a>
+
+<a href="https://github.com/Sayak11">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayak11&repo=github-readme-stats&cache_seconds=86400&theme=prussian" alt="Sayak's github stats"/>
+</a>
+
 
 
 ### Show some ❤️ by starring some of the repositories!
