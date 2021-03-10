@@ -60,10 +60,5 @@ Hi, I'm Sayak Roy Chowdhury, a sophomore pursuing Bachelor of Technology in Comp
 <a href="https://github.com/Sayak11">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayak11&repo=github-readme-stats&cache_seconds=86400&theme=prussian" alt="Sayak's github stats"/>
 </a>
-
-
-
-### Show some ❤️ by starring some of the repositories!
-
 </div>
 
