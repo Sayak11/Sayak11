@@ -21,14 +21,20 @@
 </a>
 <br/>
 <br/>
+Hi, I'm Sayak Roy Chowdhury, a sophomore pursuing an undergraduate degree in Computer Science and Engineering from Kalinga Institute of Industrial Technology. I love programming and taking on new challenges. Music and Soccer are my best friends 
 
 ## I'm a Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I’m ML enthusiast and flutter developer.
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with other content creators.
+- 📫 How to reach me: [Email- @imthepk](sayakroychowdhury1398@gmail.com)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- [Resume](https://drive.google.com/file/d/18cA8rFbt2_G0n2iWvqcINyGQftEjRyqQ/view?usp=sharing)
+
+[![Linkedin: Sayak Roy Chowdhury](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/sayak-roy-chowdhury/)
+[![GitHub Sayak11](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/Sayak11)
 
 ### Spotify Playing 🎧
 
