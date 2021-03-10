@@ -1,6 +1,6 @@
 ### Hello, I'm Sayak Roy Chowdhury 👋
 
-[![Website](https://img.shields.io/website?label=usp&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://support.unseenpassage.studio/)
+[![Website](https://img.shields.io/website?label=unseenpassage&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://support.unseenpassage.studio/)
 
 ## I'm a Developer!!
 
@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="SAYAK Spotify Playing" width="350" />](https://open.spotify.com/user/xh8cncxbhy5puf02tgqgqaxmt?si=rXUwZfPgSKyPS9-tUOtLGw&nd=1)
 
 ### Connect with me:
 
