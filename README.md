@@ -28,7 +28,7 @@ Hi, I'm Sayak Roy Chowdhury, a sophomore pursuing Bachelor of Technology in Comp
 - 🔭 I’m ML enthusiast and flutter developer.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators.
-- 📫 How to reach me: [Email- @Sayak](sayakroychowdhury1398@gmail.com)
+- 📫 How to reach me: Email- sayakroychowdhury1398@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 - [Resume](https://drive.google.com/file/d/18cA8rFbt2_G0n2iWvqcINyGQftEjRyqQ/view?usp=sharing)
