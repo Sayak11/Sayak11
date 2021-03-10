@@ -1,7 +1,6 @@
 ### Hello, I'm Sayak Roy Chowdhury 👋
 
 [![Website](https://img.shields.io/website?label=unseenpassage&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://support.unseenpassage.studio/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sayak11&label=Views&color=blue&style=plastic" alt="Sayak11" /> </p>
 
 ## I'm a Developer!!
 
@@ -17,13 +16,22 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<a href="https://www.linkedin.com/in/sayak-roy-chowdhury/">
+  <img align="left" alt="Sayak's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Sayak11">
+  <img align="left" alt="Sayak's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://www.instagram.com/its_me_sayakroychowdhury/">
+  <img align="left" alt="Sayak's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/sayak.roychowdhury.5661">
+  <img align="left" alt="Sayak's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br/>
+<br/>
 
 ### Languages and Tools:
 
