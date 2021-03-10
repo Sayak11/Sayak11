@@ -33,7 +33,7 @@ Hi, I'm Sayak Roy Chowdhury, a sophomore pursuing Bachelor of Technology in Comp
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 - [Resume](https://drive.google.com/file/d/18cA8rFbt2_G0n2iWvqcINyGQftEjRyqQ/view?usp=sharing)
 
-[![Linkedin: Sayak Roy Chowdhury](https://img.shields.io/badge/-Sayak Roy Chowdhury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayak-roy-chowdhury/)](https://www.linkedin.com/in/sayak-roy-chowdhury/)
+[![Linkedin: Sayak-Roy-Chowdhury](https://img.shields.io/badge/-Sayak Roy Chowdhury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayak-roy-chowdhury/)](https://www.linkedin.com/in/sayak-roy-chowdhury/)
 [![GitHub Sayak11](https://img.shields.io/github/followers/Sayak11?label=follow&style=social)](https://github.com/Sayak11)
 
 ### Spotify Playing 🎧
