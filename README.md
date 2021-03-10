@@ -50,8 +50,7 @@
 <a href="https://github.com/Sayak11">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayak11&show_icons=true&theme=light&line_height=27" alt="Sayak's github stats"/>
 </a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayak11&theme=dark&show_icons=true)
-<div align="center">
+[cobalt]: https://github-readme-stats.vercel.app/api?username=Sayak11&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt
 
 ### Show some ❤️ by starring some of the repositories!
 
