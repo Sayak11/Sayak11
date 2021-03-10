@@ -21,14 +21,14 @@
 </a>
 <br/>
 <br/>
-Hi, I'm Sayak Roy Chowdhury, a sophomore pursuing an undergraduate degree in Computer Science and Engineering from Kalinga Institute of Industrial Technology. I love programming and taking on new challenges. Music and Soccer are my best friends 
+Hi, I'm Sayak Roy Chowdhury, a sophomore pursuing Bachelor of Technology in Computer Science and Engineering from Kalinga Institute of Industrial Technology. I love programming and look forward to take on new challenges. Music and Soccer are my best friends.
 
 ## I'm a Developer!!
 
 - 🔭 I’m ML enthusiast and flutter developer.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators.
-- 📫 How to reach me: [Email- @imthepk](sayakroychowdhury1398@gmail.com)
+- 📫 How to reach me: [Email- @Sayak](sayakroychowdhury1398@gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 - [Resume](https://drive.google.com/file/d/18cA8rFbt2_G0n2iWvqcINyGQftEjRyqQ/view?usp=sharing)
