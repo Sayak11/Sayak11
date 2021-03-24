@@ -38,10 +38,6 @@ Hi, I'm Sayak Roy Chowdhury, a sophomore pursuing Bachelor of Technology in Comp
 [![Linkedin: Sayak-Roy-Chowdhury](https://img.shields.io/badge/-Sayak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayak-roy-chowdhury/)](https://www.linkedin.com/in/sayak-roy-chowdhury/)
 [![GitHub Sayak11](https://img.shields.io/github/followers/Sayak11?label=follow&style=social)](https://github.com/Sayak11)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="SAYAK Spotify Playing" width="350" />](https://open.spotify.com/user/xh8cncxbhy5puf02tgqgqaxmt?si=rXUwZfPgSKyPS9-tUOtLGw&nd=1)
-
 
 **Languages and Tools:**  
 
@@ -62,5 +58,12 @@ Hi, I'm Sayak Roy Chowdhury, a sophomore pursuing Bachelor of Technology in Comp
 <a href="https://github.com/Sayak11">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayak11&repo=github-readme-stats&cache_seconds=86400&theme=prussian" alt="Sayak's github stats"/>
 </a>
+![Github Metrics](https://metrics.lecoq.io/Sayak11)
+
+![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sayak11&theme=tokyonight)
+
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=Sayak11)
+
+
 </div>
 
