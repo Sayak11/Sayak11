@@ -58,11 +58,12 @@ Hi, I'm Sayak Roy Chowdhury, a sophomore pursuing Bachelor of Technology in Comp
 <a href="https://github.com/Sayak11">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayak11&repo=github-readme-stats&cache_seconds=86400&theme=prussian" alt="Sayak's github stats"/>
 </a>
-![Github Metrics](https://metrics.lecoq.io/Sayak11)
 
+![Github Metrics](https://metrics.lecoq.io/Sayak11)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=Sayak11)
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sayak11&theme=tokyonight)
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=Sayak11)
+
 
 
 </div>
